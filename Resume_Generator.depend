@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1617127693 source:d:\computer graphics\resume_generator\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<math.h>
+	<windows.h>
+	<vector>
+	<string>
+
